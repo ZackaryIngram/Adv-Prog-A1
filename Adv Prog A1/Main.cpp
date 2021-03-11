@@ -18,7 +18,7 @@ int main()
 	cout << "---------" << endl << endl;
 	cout << "Enter in the number of participants (MAX 500): " << endl;
 	cin >> participants;
-
+	
 	/*m_survey.SetParticipants(participants);*/
 
 	cout << "Are you ready to process the survey ? Enter 1 if you are: " << endl;
